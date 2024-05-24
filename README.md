@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akash Holambe</h1>
-<h3 align="center">Elevating Software Engineering with the Power of Java.</h3>
+<h3 align="center">Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashholambe&label=Profile%20views&color=0e75b6&style=flat" alt="akashholambe" /> </p>
 
 - 🔭 I’m currently working on [Complete Java](https://github.com/AkashHolambe/Complete_Java)
 
-- 🌱 I’m currently learning **Java, Python, JavaScript.**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on [Redmi mobile web page](https://github.com/AkashHolambe/RedmiPage)
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://www.instagram.com/_akash_h__/](https://www.instagram.com/_akash_h__/)
 
-- 💬 Ask me about **Spring boot, React, Nodejs, Vue.js, Experssjs**
+- 💬 Ask me about **SQL,Python,PowerBI,Excel**
 
 - ⚡Hobbies **I love to reading books.**
 
