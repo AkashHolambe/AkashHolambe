@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashholambe&label=Profile%20views&color=0e75b6&style=flat" alt="akashholambe" /> </p>
 
-- 🔭 I’m currently working on [Complete Java](https://github.com/AkashHolambe/Complete_Java)
+- 🔭 I’m currently working on [Complete python](https://github.com/AkashHolambe/Complete_python)
 
 - 🌱 I’m currently learning **Python**
 
